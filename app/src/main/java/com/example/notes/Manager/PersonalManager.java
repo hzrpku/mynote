@@ -17,9 +17,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 
-/**
- * Created by 阿买 on 2017/4/12.
- */
+
+
 
 public class PersonalManager {
 
