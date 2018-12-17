@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">SimpleNote</string>
-    <string name="app_version">版本:1.1.01</string>
+    <string name="app_name">备忘录</string>
+    <string name="app_version">版本:1.1.1</string>
 
     <string name="empty_info">空空如也</string>
     <string name="main_empty_info">还没有任何备忘录</string>
@@ -77,24 +77,24 @@
     <string name="t1_table">分享此应用给朋友</string>
     <string name="t2_table">查看更新历史</string>
 
-    <string name="info_about">点击内容或我可以复制联系方式</string>
-    <string name="more_about">如果你有什么更好的建议和改进需求,或者是发现BUG,欢迎联系我!\n\n邮箱:\nlemonreds@163.com\n\nQQ:\n792277840\n\n获取代码和更多信息:\nhttps://github.com/Lemonreds/SimpleNote</string>
+    <string name="info_about">不愿透露姓名的p大小菜鸟</string>
+    <string name="more_about">如果您有更好的建议,或是发现BUG,欢迎联系我!\n\n邮箱:\n1801210525@pku.edu.cn\n\nQQ:\n775855654\n\n获取代码和更多信息:\nhttps://github.com/hzrpku</string>
     <string name="bottom_about"> </string>
 
     <string name="update_his">更新历史</string>
     <string name="content_his">
-        -20170720   v1.1\n
+        -2018.11.26   v1.1.0\n
         1.修复一些重要bug\n
         2.优化UI和其他细节\n
         3.丰富关于界面\n
         \n
-        -20170719   v1.0\n
+        -2018.12.15   v1.1.1\n
         正式版\n
     </string>
 
     <string name="back_wel">欢迎回来</string>
     <string name="info_wel"> </string>
-    <string name="bottom_wel">SimpleNote</string>
+    <string name="bottom_wel">您的备忘录</string>
 
     <string name="share">分享</string>
     <string name="shareFrom">分享自SimpleNote(Simple备忘录)</string>
@@ -107,6 +107,6 @@
     <string name="textShare">文字分享</string>
 
     <string name="title_des">第一次使用Simple备忘录</string>
-    <string name="content_des">相逢是缘,谢谢你的使用,哈哈!</string>
+    <string name="content_des">感谢您的使用</string>
 
 </resources>
